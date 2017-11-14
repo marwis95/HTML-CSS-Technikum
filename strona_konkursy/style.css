@@ -1,0 +1,63 @@
+ body{
+ font-family: trebuchet ms;
+ font-weight: lighter;
+ font-size: 95%;
+ }
+ 
+ .div1{
+ margin: 0 auto;
+ padding: 0;
+ width:800px;
+ height:100px;
+ border-bottom:1px solid black;
+ }
+ 
+ .div2{
+ background-color: #ffffff;
+ margin: 0 auto;
+ padding: 0;
+ width:800px;
+ height:50px;
+ text-align:center;
+margin-top:5px;
+ }
+ 
+  .div3{
+ margin: 0 auto;
+ padding: 10;
+ width:800px;
+ height-min:300px;
+ text-align:justify;
+ border-left:1px solid black;
+ border-right:1px solid black;
+ }
+ 
+ .div4{
+ background: url('pcb-dol.png') no-repeat;
+ margin: 0 auto;
+ padding: 10;
+ width:800px;
+ height:100px;
+ text-align:center;
+ }
+ 
+ li{
+ display:inline;
+ padding:10px;
+ margin:0 auto;
+ }
+ 
+ a:link{
+color:#339933;
+border-bottom:2px solid #339933;
+border-top:2px solid #339933;
+font-size:20px;
+text-decoration:none;
+}
+
+a:hover{
+color:#000000;
+border-bottom:2px solid #000000;
+border-top:2px solid #000000;
+background:#99ff99
+}

@@ -1,0 +1,29 @@
+.text{
+		border-radius:8px;
+		behavior (PIE.htc);
+		box-shadow:1px 1px 1px 1px;
+		float:left;
+}
+
+
+textarea{
+		border-radius:8px;
+		behavior (PIE.htc);
+		box-shadow:1px 1px 1px 1px;
+}
+
+.div_caly{
+padding:10;
+width:400px;
+}
+
+.napis{
+float:left;
+}
+
+body{
+background:url('img/1.jpg');
+color:#FFFFFF;
+}
+
+

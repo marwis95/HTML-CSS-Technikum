@@ -1,0 +1,15 @@
+ table{
+ border: 1px solid black;
+ width:500 %;
+ height:200 %;
+ border-collapse: collapse;
+ }
+ 
+ td{
+ border: 1px solid black;
+ width: 90px;
+ }
+ 
+ tr{
+ border: 1px solid black;
+ }

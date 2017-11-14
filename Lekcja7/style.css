@@ -1,0 +1,39 @@
+ table{
+border: 1px solid black;
+border-collapse: collapse;
+width: 370;
+
+}
+ 
+ 
+
+
+
+ table tr {
+border: 1px solid black;
+height: 50;
+}
+
+ table td {
+padding-left: 35px;
+}
+
+table th{
+text-align:left;
+}
+
+
+.check{
+ background: url('check.png') no-repeat ;
+ background-position: 5 center;
+}
+
+tr:nth-child(odd){
+background-color:#EEE; 
+}
+
+td+td{
+text-align: left;
+padding-left: 0 px;
+font-family: arial;
+}

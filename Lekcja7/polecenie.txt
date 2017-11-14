@@ -1,0 +1,9 @@
+Wykonaj tabelê tak¹ jak na screenie.
+Najlepiej otwórz obrazek w przegl¹darce www i 
+narzedziami webmastera sprawdz wielkoœc tabeli 
+i kolory.
+
+Pamiêtaj:
+1. tabela w razie wpisania wiêkszej iloœci tekstu 
+nie mo¿e rozci¹gaæ sie na boki, a jedynie w dó³.
+2. Odznaczenia (chack.jpg) nie moga byc przykryte tekstem

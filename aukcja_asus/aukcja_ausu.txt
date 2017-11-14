@@ -1,0 +1,89 @@
+<head>
+<style>
+
+body{
+background-image:url('http://i.imgur.com/AtRvTBF.gif');
+width:1024 px;
+height:600 px;
+}
+
+.logo{
+width:600px;
+heigtht:300px;
+}
+
+.div1{
+text-align:center;
+background-color:#000000;
+}
+
+.div2{
+text-color:#ff00ff;
+background-color:#000011;
+width:800px;
+text-align: center;
+margin: 0 auto;
+padding: 0;
+}
+
+</style>
+
+</head>
+<body>
+
+<div class="div1">
+<img src="http://i.imgur.com/E25LXdy.jpg" class="logo" />
+</div>
+
+<div class="div2">
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+tesxt<br>
+</div>
+
+
+</body>
+
+

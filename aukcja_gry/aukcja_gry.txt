@@ -1,0 +1,114 @@
+<head>
+<style>
+
+body{
+background-image:url('http://i.imgur.com/AtRvTBF.gif');
+width:1024 px;
+height:600 px;
+}
+
+.logo{
+width:400px;
+heigtht:300px;
+}
+
+
+.div1{
+text-align:center;
+background-color:#000000;
+}
+
+.div2{
+color:#ffffff;
+background-color:#000000;
+width:800px;
+text-align: justify;
+margin: 0 auto;
+padding: 15;
+}
+
+h1{
+text-align: center;
+}
+
+h2{
+text-align: center;
+}
+
+.div3{
+}
+
+.div4{
+padding: 5 px;
+text-align: center;
+padding: 30;
+}
+
+.img{
+margin: 20px;
+border: 2px solid #FFFFFF;
+}
+
+
+</style>
+
+</head>
+<body>
+
+<div class="div1">
+<img src="http://webtaj.com/images/ezapared-classic-games_99145.jpg" class="logo" />
+<img src="http://i.imgur.com/Ze76Le9.jpg" class="logo" />
+<img src="http://deskpoper.com/images/2012/10/video-games-playstation-dualshock-controllers-playstation-3-ps3-hd-wallpapers.jpg" class="logo" />
+</div>
+
+<div class="div2">
+<br><br>
+<h1>Witam</h1>
+<h2>Przedmiotem aukcji jest kolekcja 17 gier komputerowych</h2>
+<font size="4">
+Wszystkie gry s¹ u¿ywane, ale w 100% sprawne. Wœród nich takie pere³ki jak GTA, FarCry i Quake.
+Ka¿da gra jest zapakowana w oryginalne pude³ko ze sklepu, w œrodku pude³ek ksi¹¿eczki i instrukcje do gier.<br>
+Aukcja dotyczy ca³ej kolekcji, NIE SPRZEDAJE POJEDYNCZYCH GIER !!! <br>
+Polecam i zapraszam do licytowania :)<br><br><br>
+
+<div class="div3">
+Lista gier:
+<ul>
+<li>F.E.A.R</li>
+<li>Kroniki Riddicka: Ucieczka z Butcher Bay</li>
+<li>Deus Ex Invisible War</li>
+<li>UFO Afterlight</li>
+<li>The Settlers: Dziedzictwo Królów</li>
+<li>FarCry</li>
+<li>Prey</li>
+<li>Enemy Territory Quake Wars</li>
+<li>18 Wheels of Steel: Legends</li>
+<li>Infernal</li>
+<li>Star Wars Republic Commando</li>
+<li>Chrome Specforce</li>
+<li>Half-Life 2</li>
+<li>GTA: Trylogia</li>
+<li>Quake4</li>
+<li>Crysis</li>
+<li>Act of War: Z³ota Edycja</li>
+</ul>
+</div>
+
+
+<div class="div4">
+<img src="http://i.imgur.com/PQKyS1x.jpg" width="300" class="img" />
+<img src="http://i.imgur.com/xRVh3jB.jpg" width="300" class="img" /> <br>
+<img src="http://i.imgur.com/Nm2qShc.jpg" width="300" class="img" />
+<img src="http://i.imgur.com/DFW4VQl.jpg" width="300" class="img" /> <br>
+</div>
+
+</font>
+
+
+<br><br><br><br><br><br><br><br><br>
+</div>
+
+
+</body>
+
+

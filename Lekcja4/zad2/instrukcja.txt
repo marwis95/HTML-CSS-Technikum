@@ -1,0 +1,22 @@
+margin: auto; - wysrodkowanie diva, dziala tylko dla xhtml'a
+padding - odstep miedzy brzegiem diva a tekstem w divie - uwaga
+szerokosc diva zostaje powiekszona o padding 
+float: rigth - oblewanie obiektu z  prawej
+a: hover - pseudoklasa - najechany odnosnik
+
+fajna stronka:
+http://www.interklasa.pl/portal/dokumenty/kurs_html/o/style.php
+
+dalsze rozwijanie:
+
+zamiana min-height na heigth i dolorzenie z boku scrolla
+ten znak wodny mozna ustawic, by nie znikal z ekranu mimo 
+przewijania tekstu - background-attachment
+
+dla tekstu ustaw: czcionka arial, tekst pochylony, pogrubiony, drukowanymi literami, podkreslony, 
+
+interlinia (odleglosc miedzy wierszami 150%)
+
+dla "pobierz cv" ustaw: odleglosc miedzy literami 5px, z kapitalikami
+
+jak zrobic tekst przekreslony, nadkerslony, malymi literami, 

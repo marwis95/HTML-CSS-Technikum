@@ -1,0 +1,22 @@
+ body{
+ margin: 0  auto;
+ padding: 0 ;
+ width: 860 px;
+ background-color:black;
+ }
+ 
+ header{
+ background:url(img/foto/lorem-foto-2.jpg) no-repeat;
+ height:200px;
+ width:860px;
+ text-align:right;
+ border:2px solid white;
+ }
+ 
+ p{
+ color:white;
+ }
+ 
+ h1{
+vertical-align:top;
+ }

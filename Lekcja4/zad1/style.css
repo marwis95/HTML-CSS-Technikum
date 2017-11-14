@@ -1,0 +1,17 @@
+ body{
+background-color: #364572;
+margin:80;
+padding:0;
+}
+
+
+.div{
+width:900px;
+height:300px;
+background-color:rgb(251,234,255);
+text-align: justify;
+margin:0 auto;
+padding:15px, 10px;
+}
+
+content img(float:aright);

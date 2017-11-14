@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+  <meta http-equiv="content-type" content="text/html; charset=windows-1250">
+  <meta name="generator" content="PSPad editor, www.pspad.com">
+  <title>jhjh</title>
+  <link rel="Stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body bgcolor="green">
+  <center><font size="7"> <b> Formularz </b> </font></center> <br>
+
+<p1> Formularz - przykład pola tekstowego: </p1><br>
+<form>
+<div class="div" align="left">
+<label for="imie">Imie:</label>
+<div align="right" style="float:right"><input type="text" name="Imie" id="imie"></div><br><br>
+
+<label for="nazwisko">Nazwisko:</label>
+<div align="right" style="float:right"><input type="text" name="Nazwisko" id="nazwisko"></div><br><br>
+
+<label for="haslo">Haslo:</label>
+<div align="right" style="float:right"><input type="password" name="haslo" id="haslo"></div><br>
+
+</div>
+
+<p1> Płeć: </p1><br>
+
+<input type="radio" name="mężczyzna" id=”m”> 
+<label for="">Mężczyzna</label><br>
+
+<input type="radio" name="kobieta" id=”k"> 
+<label for="k">Kobieta</label><br><br>
+
+
+<p1> Wybierz usługę: </p1> <br><Br>
+
+<select name="Produkty" multiple="multiple" size="7">
+<optgroup label="Tipsy">
+<option>Biale</option>
+<option>Mleczne</option>
+<option>Przezroczyste</option>
+<optgroup label="Inne zabiegi">
+<option>Wycinanie skorek</option>
+<option>Utwardzanie plytki paznokcia</option>
+</optgroup>
+</select>
+<br>
+<input type="checkbox" name="nogi" value="nogi" />u nóg
+<br>
+<input type="checkbox" name="rece" value="rece" />u rąk
+<br>
+<input type="checkbox" name="inne" value="inne" />inne, podaj jakie<input type="text" name="jakie" id="jakie">
+<br>
+<input type="submit" value="wyslij"> <input type="reset" value="Wyczyść">
+</form>
+  </body>
+</html>
